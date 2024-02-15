@@ -16,3 +16,7 @@ inventory = ./dev
 └──╼ $ansible --list-hosts all  
   hosts (1):  
     localhost  
+
+└──╼ $ansible --list-hosts "*"  
+  hosts (1):  
+    localhost  
