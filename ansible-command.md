@@ -5,3 +5,6 @@ cat dev
 [webserver]  
 localhost  
 
+ansible -i dev --list-hosts all  
+  hosts (1):  
+    localhost  
