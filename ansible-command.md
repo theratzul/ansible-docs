@@ -6,5 +6,5 @@ cat dev
 localhost  
 
 ansible -i dev --list-hosts all  
-  hosts (1):  
+    hosts (1):  
     localhost  
